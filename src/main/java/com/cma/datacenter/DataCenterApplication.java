@@ -8,6 +8,7 @@ public class DataCenterApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DataCenterApplication.class, args);
+        System.out.println("hello world!");
     }
 
 }
